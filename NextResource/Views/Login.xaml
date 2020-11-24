@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NextResource.Views.Login" 
+             Title="Login">
+
+        <StackLayout Padding="20">
+            
+            <Label Text=" Login " 
+                FontSize="50" 
+                TextColor="Green"
+                HorizontalOptions="Center"/>
+
+            <Label Text="{Binding Message}" IsVisible="False" TextColor="Red"/>
+
+                <!-- UserName -->
+            <Label Text=" UserName "   
+                 FontSize="Medium" 
+                TextColor="Green"  />
+        <Entry Text="{Binding LoginModel.UserName}"/>
+            <Label x:Name="LoginModel_UserNameError" 
+                 IsVisible="False" TextColor="Red" />
+            
+                <!-- Password -->
+            <Label Text=" Password "
+                 FontSize="Medium" 
+                TextColor="Green"  />
+        <Entry Text="{Binding LoginModel.Password}"/>
+            <Label x:Name="LoginModel_PasswordError" 
+                 IsVisible="False" TextColor="Red" />
+            
+                <!-- Button RememberMe-->
+        <StackLayout Orientation="Horizontal">
+            <Switch IsToggled="{Binding LoginModel.RememberMe}" 
+                        HorizontalOptions="Start"/>
+            <Label Text="Remember" 
+                   HorizontalOptions="FillAndExpand" 
+                   VerticalOptions="Center" />
+
+        </StackLayout>
+                
+                <!-- Button -->
+            <Button Text="Enter" 
+                    BorderWidth="3"
+                    TextColor="White"
+                    FontSize="20"
+                    Command="{Binding LoginInCommand}" BackgroundColor="Green"/>
+        </StackLayout>
+ 
+</ContentPage>

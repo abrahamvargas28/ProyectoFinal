@@ -1,0 +1,16 @@
+C:\Users\sb_va\source\repos\NextResource\NextResource\bin\Debug\netstandard2.0\NextResource.deps.json
+C:\Users\sb_va\source\repos\NextResource\NextResource\bin\Debug\netstandard2.0\NextResource.dll
+C:\Users\sb_va\source\repos\NextResource\NextResource\bin\Debug\netstandard2.0\ref\NextResource.dll
+C:\Users\sb_va\source\repos\NextResource\NextResource\bin\Debug\netstandard2.0\NextResource.pdb
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.csprojAssemblyReference.cache
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.AssemblyInfoInputs.cache
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.AssemblyInfo.cs
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.csproj.CoreCompileInputs.cache
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.dll
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\ref\NextResource.dll
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\NextResource.pdb
+C:\Users\sb_va\source\repos\NextResource\NextResource\obj\Debug\netstandard2.0\Views\Client.xaml.g.cs
